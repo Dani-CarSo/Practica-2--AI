@@ -1,2 +1,2 @@
-# Practica-2--AI
+# Practica2-AI
 Métodos de ordenamiento
